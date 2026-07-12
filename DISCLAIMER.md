@@ -1,17 +1,17 @@
-# 🏥 Medical Software Disclaimer
+# Medical Software Disclaimer
 
-## ⚠️ Important Notice
+## Important Notice
 
 **This Patient Vital Monitoring System is an EDUCATIONAL AND DEMONSTRATION PROJECT.**
 
-### 🔬 Educational Purpose Only
+### Educational Purpose Only
 This software is designed to demonstrate:
 - Data structure implementation (AVL trees, queues)
 - Web server programming in C
 - Real-time system design principles
 - Healthcare software architecture concepts
 
-### 🚫 Not for Clinical Use
+###  Not for Clinical Use
 - **NOT certified** for clinical or medical use
 - **NOT intended** for actual patient monitoring
 - **NOT a replacement** for professional medical equipment
@@ -24,14 +24,14 @@ This software is designed to demonstrate:
 - Diagnosis or monitoring of real patients
 - Replacement of certified medical devices
 
-### ✅ Proper Medical Practice
+### Proper Medical Practice
 Always:
 - Consult qualified healthcare professionals
 - Use certified medical equipment
 - Follow established clinical protocols
 - Adhere to medical regulations and standards
 
-### 📚 Academic Use
+### Academic Use
 This project is suitable for:
 - Computer science education
 - Software engineering demonstrations
