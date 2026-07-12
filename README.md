@@ -58,4 +58,6 @@ health
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Medical Disclaimer
-**Important**: This software is for educational and demonstration purposes only. It is NOT certified for clinical use and should NOT be used for actual patient monitoring. Always consult healthcare professionals and use certified medical equipment for patient care. See [DISCLAIMER.md](DISCLAIMER.md) for complete details.
+**Important**: This software is for educational and demonstration purposes only. 
+It is NOT certified for clinical use and should NOT be used for actual patient monitoring. Always consult healthcare professionals and use certified medical equipment for patient care. 
+See [DISCLAIMER.md](DISCLAIMER.md) for complete details.
